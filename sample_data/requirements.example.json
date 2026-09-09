@@ -1,0 +1,18 @@
+{
+  "areas": ["Austin, TX"],
+  "min_price": 1000,
+  "max_price": 2200,
+  "min_bedrooms": 1,
+  "max_bedrooms": 2,
+  "min_bathrooms": 1,
+  "min_sqft": 600,
+  "pet_friendly": true,
+  "move_in_by": "2026-11-01",
+  "must_have_keywords": ["laundry"],
+  "exclude_keywords": ["no pets"],
+  "preferred_keywords": ["parking", "balcony"],
+  "extra_questions": [
+    "Is parking included or extra?",
+    "Are any utilities included in rent?"
+  ]
+}

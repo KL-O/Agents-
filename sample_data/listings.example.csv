@@ -1,0 +1,3 @@
+source,title,url,address,price,bedrooms,bathrooms,sqft,pet_friendly,available_date,description,contact_name,contact_email,contact_phone
+zillow,Charming 1BR with laundry,https://www.zillow.com/example-listing,123 Main St Austin TX,1500,1,1,720,true,2026-10-15,"Great 1 bedroom with in-unit laundry and covered parking.",Alex,alex@example.com,
+facebook,2BR near the park,https://www.facebook.com/marketplace/item/example,456 Oak Ave Austin TX,1900,2,1,900,,2026-11-01,"Spacious 2 bedroom, pet policy unclear, ask owner.",,,555-0102
