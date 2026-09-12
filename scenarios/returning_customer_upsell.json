@@ -1,0 +1,9 @@
+{
+  "name": "Returning customer upsell",
+  "product_or_service": "Running shoes; the store also carries insoles, socks, and a shoe care kit",
+  "customer_persona": "A repeat customer who is happy with a previous purchase and is back to buy the same shoes again.",
+  "personality_traits": ["friendly", "trusts the store", "in a bit of a hurry"],
+  "objections_focus": ["doesn't think they need anything extra", "in a hurry, wants to grab and go"],
+  "difficulty": "easy",
+  "goal": "Practice a natural, non-pushy upsell (insoles, socks, or the care kit) without slowing the customer down or annoying them."
+}

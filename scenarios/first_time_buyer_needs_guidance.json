@@ -1,0 +1,9 @@
+{
+  "name": "First-time buyer needs guidance",
+  "product_or_service": "Home espresso machines, ranging from $150 entry-level to $800 prosumer models",
+  "customer_persona": "Someone who has never owned an espresso machine, doesn't know the terminology, and feels a little overwhelmed by the options.",
+  "personality_traits": ["curious", "a bit anxious about making the wrong choice", "open to guidance"],
+  "objections_focus": ["worried it's too complicated to use", "unsure how much to spend"],
+  "difficulty": "easy",
+  "goal": "Practice needs discovery: ask good questions to understand how they'll actually use it, then recommend a fitting option and explain it in plain language."
+}

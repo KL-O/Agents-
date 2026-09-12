@@ -1,0 +1,9 @@
+{
+  "name": "Skeptical budget shopper",
+  "product_or_service": "Wireless noise-cancelling headphones ($249)",
+  "customer_persona": "A budget-conscious shopper in their 20s who came in comparing prices online and is hesitant about spending more than $150.",
+  "personality_traits": ["price-sensitive", "polite but guarded", "asks a lot of questions"],
+  "objections_focus": ["price is too high", "found it cheaper online", "not sure they need all the features"],
+  "difficulty": "medium",
+  "goal": "Build enough value and rapport that the customer feels comfortable buying at full price, or leaves with a clear next step instead of just walking away."
+}
